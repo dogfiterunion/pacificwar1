@@ -1,6 +1,6 @@
 # pacificwar1
 🌊 Pacific War 1: Tactical Command
-Pacific War 1 is a terminal-based, turn-of-the-century naval warfare simulator. Command a fleet of five distinct ship classes through an island-strewn archipelago, utilizing radar ghosts, torpedo spreads, and specialized abilities to outmaneuver the enemy under varying weather conditions.
+Pacific War 1 is a terminal-based, turn-of-the-century naval warfare simulator. Command a fleet of five distinct ship classes through an island-strewn archipelago, utilizing radar ghosts, torpedo spreads, and specialized abilities to outmaneuver the enemy under varying weather conditions. Use a python running software to run the game. An example on Browser is online-python.com
 
 🕹️ How to Play
 1. The Fleet
