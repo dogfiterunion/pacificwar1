@@ -1,0 +1,126 @@
+⚓ Pacific War 1: Admiral’s Tactical Manual
+Winning in Pacific War 1 requires more than just firing salvos. You must master the "Information War," manage your fleet's positioning, and understand the mathematical risks of every engagement.
+
+🏗️ 1. Fleet Composition & Roles
+Each ship in your task force has a specific "job description." Misusing a unit is the fastest way to lose the war.
+
+The Destroyer (The Greyhound)
+Primary Role: Reconnaissance and Torpedo Denial.
+
+Strategy: Use your 3-tile movement to "peek" around islands. Your goal is to trigger the Sonar Ping to turn enemy ? ghosts into active X targets for your Battleship.
+
+Survival Tip: Never end a turn within 5 tiles of an enemy Battleship. Use your speed to move in, spot, and retreat behind an island.
+
+The Battleship (The Sledgehammer)
+Primary Role: Long-range Elimination.
+
+Strategy: You are the only ship that can reliably hit targets from across the map. Position yourself in open water where you have clear lines of sight.
+
+The Math: Because accuracy is P(h)=1−(d/R), staying at the edge of your 10-tile range gives you low hit chances. Move to mid-range (5-6 tiles) to maximize your Citadel Hit potential.
+
+The Submarine (The Assassin)
+Primary Role: Area Denial.
+
+Strategy: Fire torpedoes into "choke points"—the narrow gaps between islands. Even if you don't hit, the AI will often move to avoid the torpedo path, forcing them out of their Repair Cycle.
+
+🌪️ 2. Mastering the Information War
+In this game, Knowledge = Range. ### Managing Radar Ghosts
+
+Tracking Trajectories: When an enemy blip turns from X to x to +, look at the vector. If an enemy moved North for two turns, they are likely still moving North. Fire a "blind shot" at the predicted coordinate.
+
+The Typhoon Blindness: During a Typhoon, your radar is almost useless. This is the time to stop moving. Engage the Repair Action and wait for the weather to clear. Let the AI come to you; they will likely stumble into your close-range detection radius.
+
+The "Scout & Strike" Combo
+Launch Air Recon (Carrier) at a suspicious cluster of islands.
+
+Once the enemy is Identified (revealing their HP), focus all fire on the ship with the most Ammo remaining.
+
+Removing the enemy's "teeth" (Ammo) is often more important than removing their HP.
+
+🗺️ 3. Archipelago Navigation
+The islands [#] are your best friends and your worst enemies.
+
+Island Masking: Always try to keep an island between your Carrier and the center of the map. Carriers are large targets with high HP but are vulnerable to Citadel Hits.
+
+The Ambush: Position a Destroyer or Cruiser right on the edge of an island. On your turn, move out, fire, and if you have moves left (Cruisers/Destroyers only), move back behind the cover. The AI cannot fire through landmasses.
+
+🔧 4. The Logistics of Repair
+The 3-2-2 Repair Rule is a "tempo" mechanic.
+
+Knowing When to Sit: If a ship falls below 50% HP, it is in the "Danger Zone" for a Citadel Hit (which deals 4x damage).
+
+Bait and Switch: Use a healthy Battleship to draw fire (Suppression), then move it behind an island to begin the 3-turn repair clock. While it sits, move your other units to cover its "blind" sectors.
+
+The Repair Cap: Remember you can only heal to 75%. Don't waste turns sitting still if you are already at the cap; get back into the fight!
+
+📊 5. Combat Probabilities (The "Crunch")
+Event	Probability	Effect
+Standard Hit	Distance-based	20–45 Damage
+Citadel Hit	10% of Hits	80–180 Damage (One-shot potential)
+Ammo Detonation	5% of Hits	Instant Death
+Suppression	Damage > 30	-25% Range for 1 Turn
+
+Export to Sheets
+
+Admiral's Advice: Never assume a ship is safe just because it has high HP. A single 5% roll can end your flagship. Always keep a backup "spotter" (Destroyer) alive to maintain eyes on the target.
+
+💡 Quick Tips for Beginners
+Don't Cluster: A single AI torpedo spread can hit multiple ships if they are grouped too tightly.
+
+Save Ammo: Don't fire at targets at max range unless you absolutely have to. You only have a limited supply.
+
+Watch the CD: Keep track of your Ability Cooldowns. Don't waste a Sonar Ping if the weather is already CLEAR.
+Ship Specification Cheat Sheet
+Class	Symbol	HP	Range	Speed	Ammo	Special Ability
+Carrier	C	100	15	1	20	Air Recon: Reveal 5x5 area
+Battleship	B	150	10	1	40	Heavy Salvo: High sustain
+Cruiser	R	80	8	2	50	Escort: High ammo & mobility
+Destroyer	D	50	6	3	60	Sonar: Counter Fog/Typhoon
+Submarine	S	40	5	1	12	Torpedo: Area denial
+
+Export to Sheets
+
+🧠 Advanced Admiral Maneuvers
+1. The "Hammer and Anvil" (Island Pinning)
+Since islands block LOS (Line of Sight), you can trap an AI ship.
+
+The Setup: Position your Battleship on one side of a large island and your Destroyer on the other.
+
+The Execution: Use the Destroyer to "flush" the enemy out. The AI will often move away from the Destroyer's torpedo threat, forcing them to sail directly into the Battleship's waiting 10-tile kill zone.
+
+2. The "Sonar Screen" (Defense against Typhoons)
+Typhoons reduce your natural vision to almost zero.
+
+The Maneuver: When a Typhoon hits, don't scatter. Move your Destroyer to the center of your fleet formation.
+
+The Benefit: Trigger Sonar Ping. Because Sonar ignores weather degradation, your Destroyer acts as a "Lighthouse," revealing enemies for your Battleships to fire at while they remain safely "blind" to your exact location.
+
+3. "Suppression Chaining"
+If you can't sink a ship, neuter it.
+
+The Strategy: A ship is suppressed if it takes >30 damage. If an enemy Battleship is closing in, hit it with a heavy Cruiser or Battleship salvo.
+
+The Result: Even if it survives, its range drops by 25%. This often puts you outside its reach for the next turn, giving you a "free" turn to reposition or fire again without fear of retaliation.
+
+4. "Torpedo Herding"
+Torpedoes are slow, but they are scary.
+
+The Strategy: Launch a torpedo North of an enemy ship.
+
+The Result: The AI logic is programmed to avoid the T icons. You can effectively "herd" the enemy into a corner of the map or toward an island where they lose their maneuverability, making them sitting ducks for your Carrier's recon-assisted strikes.
+
+5. "Logistics Cycling" (The 3-2-2 Rotation)
+Never have your whole fleet stationary at once.
+
+The Rhythm: Rotate your ships. When your Cruiser is at Tier 2 repair (5 total turns stationary), your Battleship should be aggressive.
+
+The Reset: Once the Cruiser hits 75% HP, move it out immediately. The move resets its repair counter, but it’s better to have a 75% HP ship moving than a 75% HP ship sitting idle and wasting "Combat Tempo."
+
+🌓 Final Pro-Tip: The "Ghost" Snipe
+The AI doesn't always move perfectly. If an enemy was at (10, 10) and moved to (11, 11), and then disappeared into the Fog of War, the "Ghost" icons [x] and [+] tell a story.
+
+Calculate the vector: dx=+1,dy=+1.
+
+Aim your next shot at (12, 12).
+
+Blind firing at predicted coordinates is the mark of a Master Admiral in Pacific War 1.
