@@ -1,0 +1,43 @@
+🤝 Contributing to Pacific War 1
+First off, thank you for considering contributing to Pacific War 1! This project started as a tactical simulation of naval warfare and is growing into a complex strategy engine.
+
+🗺️ Feature Roadmap (Planned Updates)
+If you are looking for a place to start, these features are currently in the "conceptual" phase:
+
+Fuel & Logistics System: Implementing a fuel attribute that limits how many tiles a ship can move before needing to "Refuel" near a Carrier or a friendly port.
+
+Advanced AI Profiles: * The Aggressor: High-speed Destroyer rushes and torpedo spreads.
+
+The Sniper: Battleships that maintain maximum distance and use islands for cover.
+
+Depth Charges: Counter-play for Submarines that allows Destroyers to attack "submerged" units.
+
+Save/Load Functionality: Exporting the current NavalWarfare class state to a JSON file.
+
+GUI Wrapper: Moving the game from the terminal into a basic 2D interface (using pygame or tkinter).
+
+🛠️ How to Contribute
+Fork the Repository: Create your own copy of the project to work on.
+
+Create a Branch: git checkout -b feature/YourFeatureName
+
+Commit Your Changes: Provide clear, descriptive commit messages.
+
+Open a Pull Request: Explain what your code adds and how it affects the game balance.
+
+📜 Coding Standards
+Maintain the Logic: Ensure that any new math (accuracy, damage, or movement) is documented in the code comments.
+
+Scannability: Keep the terminal output clean. Use horizontal rules --- and headers to separate turns and action logs.
+
+OOP Integrity: Keep ship-specific logic within the Ship class and game-wide logic within the NavalWarfare class.
+
+⚓ The Admiral's Quick Reference (Stat Card)
+Unit	Key Strength	Strategic Weakness
+Carrier	Infinite Intel (Air Recon)	Slow & Huge Target
+Battleship	One-shot potential (10-tile range)	Low Mobility
+Cruiser	High Ammo & Speed	Jack of all trades, master of none
+Destroyer	High Speed & Sonar	Very Fragile (50 HP)
+Submarine	Stealth & Torpedoes	Extremely low range
+
+Export to Sheets
