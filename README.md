@@ -1,8 +1,4 @@
 # pacificwar1
-To wrap up Pacific War 1, you’ll want a README that sells the "fantasy" of being a naval commander while clearly explaining the sophisticated mechanics you've built.
-
-Here is a template you can copy and paste directly into a README.md file.
-
 🌊 Pacific War 1: Tactical Command
 Pacific War 1 is a terminal-based, turn-of-the-century naval warfare simulator. Command a fleet of five distinct ship classes through an island-strewn archipelago, utilizing radar ghosts, torpedo spreads, and specialized abilities to outmaneuver the enemy under varying weather conditions.
 
