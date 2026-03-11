@@ -1,0 +1,51 @@
+🚀 How to Run Pacific War 1
+You don't need to install anything to start your command. Follow these simple steps to get the game running in seconds.
+
+Option 1: The "Drop & Play" Method (Recommended)
+This is the fastest way to play using online-python.com.
+
+Download the PacificWar1.py file from this repository to your computer.
+
+Open online-python.com in your web browser.
+
+Drag and Drop the PacificWar1.py file directly onto the webpage's code editor area.
+
+The website will automatically load the code. Click the "Run" button at the bottom of the screen.
+
+The game will initialize in the terminal window below.
+
+Option 2: Local Execution
+If you have Python installed on your machine:
+
+Open your terminal or command prompt.
+
+Navigate to the file's location.
+
+Run: python PacificWar1.py
+
+📂 Repository Directory Guide
+To help you navigate the various intelligence reports and manuals in this repository, refer to this guide:
+
+File	Description
+PacificWar1.py	The core game engine. This is the only file you need to run the game.
+README.md	The primary briefing. Includes fleet stats, game rules, and basic controls.
+STRATEGY.md	The Admiral's Handbook. Contains advanced tips on ship roles and combat math.
+SCENARIOS.md	Tactical Field Puzzles. Solutions for common threats like "Island Campers."
+CONTRIBUTING.md	The development roadmap. Documentation for those who want to help code v2.0.
+LICENSE	The legal framework (Apache 2.0).
+
+Export to Sheets
+
+⚓ Basic Controls Cheat Sheet
+When the game is running, you will interact with the terminal using these keys:
+
+M (Move): Relocate your ship. Remember: Destroyers are the fastest (3 tiles)!
+
+F (Fire): Launch a shell at specific X, Y coordinates.
+
+A (Ability): Trigger class-specific skills like Sonar Ping or Air Recon.
+
+R (Repair): Available if you haven't moved for 3 turns. Heals up to 75% HP.
+
+⚖️ License
+Pacific War 1 is licensed under the Apache License, Version 2.0. You are free to share, modify, and distribute this software, provided you include the original license and copyright notice.
