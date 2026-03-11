@@ -1,0 +1,57 @@
+🚩 Pacific War 1: Tactical Scenario Guide
+This guide breaks down common combat "puzzles" you will encounter during a campaign and the optimal sequence of actions to solve them.
+
+Scenario A: The "Invisible" Battleship
+The Situation: You are taking heavy damage from a long-range Battleship, but you only see a ? ghost on your radar. You are in a FOG or TYPHOON.
+
+The Counter-Play:
+
+Do not fire blindly with your Battleship yet; you’ll waste precious ammo on a low-probability shot.
+
+Maneuver your Destroyer at full speed (3 tiles) toward the last known ? location.
+
+Activate Sonar Ping. This converts the ghost into a hard X target.
+
+Identify: If the Destroyer gets within 2 tiles (or 1 in fog), the enemy HP is revealed.
+
+The Strike: Now that the target is locked, fire your Battleship. Since the target is "spotted," your hit chance is calculated normally despite the weather.
+
+Scenario B: The "Island Camper"
+The Situation: An enemy Cruiser is "peeking"—moving out from behind an island, firing, and moving back, preventing you from getting a Line of Sight (LOS) on your turn.
+
+The Counter-Play:
+
+Launch a Torpedo with your Submarine or Destroyer aimed at the empty water next to the island where the enemy peeks.
+
+The Dilemma: On the next turn, the AI sees the T (Torpedo) icon. To avoid a potential 10% instant-kill detonation, the AI is forced to move away from the island cover.
+
+The Ambush: Position your Cruiser (Speed 2) to intercept the enemy's escape route. Once they are in open water, they lose their cover bonus.
+
+Scenario C: The "Last Stand" Repair
+The Situation: Your Battleship is at 25% HP and is currently Suppressed (Range reduced). An enemy Destroyer is closing in for a finish.
+
+The Counter-Play:
+
+Stop moving immediately. You need to start the 3-turn "Stationary" clock.
+
+Screening: Move your Cruiser or Submarine directly between the damaged Battleship and the attacker. You are using the healthy ship as a "Human Shield."
+
+The Turnaround: After 3 turns of cover, your Battleship hits Repair Tier 1 (+20 HP). This often brings you back above the "Suppression Threshold," allowing you to return fire with full 10-tile range.
+
+Scenario D: The Carrier Hunt
+The Situation: You’ve sunk the enemy screen, but their Carrier is still launching Air Recon, keeping your fleet constantly "Identified" (giving the AI an accuracy boost).
+
+The Counter-Play:
+
+Triangulation: Look at where the Air Recon 5×5 grid appears. The enemy Carrier must be within 15 tiles of that center point.
+
+High-Speed Dash: Send your Destroyer on a flanking route along the edge of the map.
+
+The Citadel Gamble: Carriers have 100 HP. A single Citadel Hit from a Battleship (max 180 damage) or a lucky Torpedo can sink it instantly. Do not trade shots; go for the "one-shot" kill to blind the enemy fleet.
+
+💡 Summary of Tactical Symbols
+Symbol	Meaning	Action Required
+#	Island	Use as cover; cannot shoot through.
+T	Torpedo	EVADE. Move at least 1 tile away from its path.
+X	Active Contact	Optimal target for your main guns.
+?	Ghost Contact	Use Sonar or move closer to re-acquire.
